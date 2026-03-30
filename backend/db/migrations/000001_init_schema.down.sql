@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS notification_logs;
+DROP TABLE IF EXISTS tracking_events;
+DROP TABLE IF EXISTS shipments;
+DROP TABLE IF EXISTS users;
+DROP TABLE IF EXISTS tenants;
+DROP EXTENSION IF EXISTS "uuid-ossp";
